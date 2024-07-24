@@ -1,3 +1,3 @@
 ## JavaScript Searching Algorithms Practice
  
-### Please follow the instructions in the exerises.js file.
+### Please follow the instructions in the exercises.js file.
